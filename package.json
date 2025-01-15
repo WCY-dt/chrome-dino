@@ -6,11 +6,7 @@
     "start": "reload"
   },
   "devDependencies": {
-    "prettier": "^2.6.2",
-    "reload": "^3.2.0"
-  },
-  "volta": {
-    "node": "16.15.0",
-    "yarn": "1.22.18"
+    "prettier": "^3.4.2",
+    "reload": "^3.3.0"
   }
 }
